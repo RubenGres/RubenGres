@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[<img src="itch-io-icon-128.png" width="30" title="hover text">](https://ohmlet.itch.io/) [<img src="linkedin-128.png" width="30" title="hover text">](https://www.linkedin.com/in/ruben-gres-484930158/)[<img src="web-icon-128.png" width="30" title="hover text">](https://rubengres.github.io/)
+
+
+
 <!--
 **RubenGres/RubenGres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
