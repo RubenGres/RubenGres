@@ -20,4 +20,4 @@ If you can't get enough of me you can also find me on:
 - [Youtube](https://www.youtube.com/channel/UCfeAbDpZDJJcWIIrJYSp5Xg)
 - [LinkedIn](https://www.linkedin.com/in/ruben-gres-484930158/)
 - [Instagram](https://www.instagram.com/retronyme/)
-- [Website](https://rubengres.ml/)
+- [Website](rubengres.github.io/)
