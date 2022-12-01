@@ -9,7 +9,7 @@ Thank you for taking the time to check out my work !
 
 Some projects that I'm most proud of:
 - [Infinite Canvas](https://www.koll.ai/): An infinite multi-user canvas where you can generate collaborative generative art
-- [ThisSCPDoesNotExist](https://www.thisscpdoesnotexist.ml/): An AI writer that can create creatures from the SCP universe
+- [ThisSCPDoesNotExist](https://www.thisscpdoesnotexist.ml/): An AI writer that can create entities from the SCP universe
 - [Bad Apple Animation](https://www.youtube.com/watch?v=LD4D09EVcDY): A 3D animation I made a while ago that reached 330K views on youtube
 
 ### 🤸‍♂️ Beyond GitHub
