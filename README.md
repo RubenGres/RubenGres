@@ -1,15 +1,27 @@
-## Hi there I'm Ruben 👋
+## Welcome to my ✨GitHub page ✨
 
-Welcome to my ✨github page ✨  
+Thank you for taking the time to check out my work !
 
-Here you will find some personal projects I've been working on in the past few years.  
-I tried to document most of them so don't hesitate to peek inside the repos! 
+    🙌 I co-created koll.ai where we build fun applications around generative art.
+    🔭 Currently I'm working with StableDiffusion, GCP and React.
+    🌱 I’m taking classes on Kubernetes and Reinforcement Learning.
+    🤗 I love machine learning and follow the community very closely.
 
-I'm very curious and often working on new interesting projects, if you have some questions or suggestions you can reach me at [ruben.g.gres@gmail.com](mailto:ruben.g.gres@gmail.com?subject=I%20found%20you%20on%20GitHub%20and%20I%20think%20I've%20fallen%20in%20love...)  
+Some projects that I'm most proud of:
+- [Infinite Canvas](https://www.koll.ai/): An infinite multi-user canvas where you can generate collaborative generative art
+- [ThisSCPDoesNotExist](https://www.thisscpdoesnotexist.ml/): An AI writer that can create creatures from the SCP universe
+- [Bad Apple Animation](https://www.youtube.com/watch?v=LD4D09EVcDY): A 3D animation I made a while ago that reached 330K views on youtube
 
 ### 🤸‍♂️ Beyond GitHub
 
-If I'm not coding I'm probably climbing, skating or slacklining. Other interests include (but are not limited to) 3D modeling, guitar and reading.
+If I'm not coding I'm probably climbing, skating or slacklining.  
+Other interests include (but are not limited to) 3D modeling, guitar and reading.
 
-If you can't get enough of me you can also find me on there:
-[Itch.io](https://ohmlet.itch.io/) - [Youtube](https://www.youtube.com/channel/UCfeAbDpZDJJcWIIrJYSp5Xg) - [LinkedIn](https://www.linkedin.com/in/ruben-gres-484930158/) - [Instagram](https://www.instagram.com/retronyme/) - [Portfolio](https://rubengres.github.io/)
+### 🌍 You can also find me on there
+
+   [🖼 Portfolio](https://rubengres.github.io/) &nbsp;&nbsp;
+   [👨‍💼 LinkedIn](https://www.linkedin.com/in/ruben-gres-484930158/) &nbsp;&nbsp;
+   [🎬 Youtube](https://www.youtube.com/channel/UCfeAbDpZDJJcWIIrJYSp5Xg) &nbsp;&nbsp;
+   [🎮Itch.io](https://ohmlet.itch.io/) &nbsp;&nbsp;
+   [📸 Instagram](https://www.instagram.com/retronyme/) &nbsp;&nbsp;
+   
