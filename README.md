@@ -7,7 +7,7 @@ Thank you for taking the time to check out my work !
     🌱 I’m taking classes on Kubernetes and Reinforcement Learning.
     🤗 I love machine learning and follow the community very closely.
 
-### ❤ Some projects that I'm most proud of:
+### ❤ Some projects that I'm most proud of
 - [Infinite Canvas](https://www.koll.ai/): An infinite multi-user canvas where you can generate collaborative generative art
 - [ThisSCPDoesNotExist](https://www.thisscpdoesnotexist.ml/): An AI writer that can create entities from the SCP universe
 - [Bad Apple Animation](https://www.youtube.com/watch?v=LD4D09EVcDY): A 3D animation I made a while ago that reached 330K views on youtube
