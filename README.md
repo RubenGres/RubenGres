@@ -1,11 +1,11 @@
 ## Welcome to my ✨GitHub page ✨
 
-Thank you for taking the time to check out my work !
+Thank you for taking the time to check out my work ! Few things about me:
 
-    🙌 I co-created koll.ai where we build fun applications around generative art.
-    🔭 Currently I'm working with StableDiffusion, GCP and React.
-    🌱 I’m taking classes on Kubernetes and Reinforcement Learning.
-    🤗 I love machine learning and follow the community very closely.
+- 🙌 I co-created koll.ai where we build fun applications around generative art.
+- 🔭 Currently I'm working with StableDiffusion, GCP and React.
+- 🌱 I’m taking classes on Kubernetes and Reinforcement Learning.
+- 🤗 I love machine learning and follow the community very closely.
 
 ### ❤ Some projects that I'm most proud of
 - [Infinite Canvas](https://www.koll.ai/): An infinite multi-user canvas where you can generate collaborative generative art
