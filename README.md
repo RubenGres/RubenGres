@@ -3,6 +3,7 @@
 Thank you for taking the time to check out my work ! Few things about me:
 
 - 🙌 I co-created koll.ai where we build fun applications around generative art.
+- 👾 I 3D model on Blender and sometimes make video games.
 - 🔭 Currently I'm working with StableDiffusion, GCP and React.
 - 🌱 I’m taking classes on Kubernetes and Reinforcement Learning.
 - 🤗 I love machine learning and follow the community very closely.
