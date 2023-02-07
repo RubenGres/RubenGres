@@ -11,12 +11,12 @@ Thank you for taking the time to check out my work ! Few things about me:
 ### ❤ Some projects that I'm most proud of
 - [Infinite Canvas](https://www.koll.ai/): An infinite multi-user canvas where you can make generative art collaboratively
 - [ThisSCPDoesNotExist](https://www.thisscpdoesnotexist.ml/): An AI writer that can create entities from the SCP universe
-- [Bad Apple Animation](https://www.youtube.com/watch?v=LD4D09EVcDY): A 3D animation I made a while ago that reached 330K views on youtube
+- [Bad Apple Animation](https://www.youtube.com/watch?v=LD4D09EVcDY): A 3D animation I made a while ago that somehow reached 330K views on youtube
 
 ### 🤸‍♂️ Beyond GitHub
 
 If I'm not coding I'm probably climbing, skating or slacklining.  
-Other interests include (but are not limited to) 3D modeling, guitar and reading.
+Other interests include (but are not limited to) 3D modeling, reading and guitar.
 
 ### 🌍 You can also find me on there
 
