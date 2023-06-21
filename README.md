@@ -1,12 +1,12 @@
 ## Welcome to my ✨GitHub page ✨
 
-Thank you for taking the time to check out my work ! Few things about me:
+Thank you for taking the time to check out my work ! Few things about me:  
 
-- 🍃 I'm working at IGN (French National Institute of Geographic and Forest Information) as a cloud engineer
-- 🙌 I co-created [koll.ai](https://koll.ai) where we build easy to use and fun apps around generative art
-- 👾 I 3D model on Blender and sometimes make [video games](https://ohmlet.itch.io/) with friends
-- 🔭 Currently I'm working with StableDiffusion, GCP and React
-- 🤗 I love machine learning and follow the community very closely
+- I'm working at IGN (French National Institute of Geographic and Forest Information) as a cloud engineer  
+- I co-created [koll.ai](https://koll.ai) where we build easy to use and fun apps around generative art  
+- I 3D model on Blender and sometimes make [video games](https://ohmlet.itch.io/) with friends  
+- Currently I'm working with StableDiffusion, GCP and React  
+- I love machine learning and follow the community very closely  
 
 ### ❤ Some projects that I'm most proud of
 - [Seg2Map](https://huggingface.co/spaces/rgres/Seg2Sat): Draw a map and let the AI generate it for you
