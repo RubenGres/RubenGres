@@ -4,7 +4,7 @@ Thank you for taking the time to check out my work ! Few things about me:
 
 - 🍃 I'm working at IGN (French National Institute of Geographic and Forest Information) as a cloud engineer
 - 🙌 I co-created [koll.ai](https://koll.ai) where we build easy to use and fun apps around generative art
-- 👾 I 3D model on Blender and sometimes make video games with friends
+- 👾 I 3D model on Blender and sometimes make [video games](https://ohmlet.itch.io/) with friends
 - 🔭 Currently I'm working with StableDiffusion, GCP and React
 - 🤗 I love machine learning and follow the community very closely
 
