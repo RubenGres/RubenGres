@@ -15,10 +15,8 @@ Thank you for taking the time to check out my work ! Few things about me:
 - [Unwanted Roomate](https://ohmlet.itch.io/unwanted-roommate): A game about dealing with anxiety
 
 ### 🌍 You can also find me on there
-<p float="left">
-   <a href="https://rubengr.es"><img src="https://cdn-icons-png.flaticon.com/32/8236/8236560.png" width="40" style="border-radius: 50%;" title="Portfolio"></a>
-   <a href="https://www.linkedin.com/in/ruben-gres-484930158/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" style="border-radius: 50%;" title="LinkedIn"></a>
-   <a href="https://ohmlet.itch.io/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/itch_io.svg" width="40"  style="border-radius: 50%;" title="itch.io"></a>
-   <a href="https://www.youtube.com/channel/UCfeAbDpZDJJcWIIrJYSp5Xg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="40"  style="border-radius: 50%;" title="YouTube"></a>
-   <a href="https://www.instagram.com/retronyme/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40"  style="border-radius: 50%;" title="Instagram"></a>
-</p>
+   [Portfolio](https://rubengr.es/) &nbsp;&nbsp;
+   [LinkedIn](https://www.linkedin.com/in/ruben-gres-484930158/) &nbsp;&nbsp;
+   [Youtube](https://www.youtube.com/channel/UCfeAbDpZDJJcWIIrJYSp5Xg) &nbsp;&nbsp;
+   [Itch.io](https://ohmlet.itch.io/) &nbsp;&nbsp;
+   [Instagram](https://www.instagram.com/retronyme/) &nbsp;&nbsp;
