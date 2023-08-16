@@ -1,8 +1,8 @@
 ## ✨ Welcome to my little corner of the interwebs ✨
 
 I'm a cloud engineer for the French National Institute of Geographic and Forest Information   
-I [3D model on Blender](https://www.instagram.com/retronyme/) and sometimes make [video games](https://ohmlet.itch.io/) with friends  
-I build small generative AI apps over at [koll.ai](https://koll.ai)  
+I [3D model on Blender](https://www.instagram.com/retronyme/) and sometimes build [video games](https://ohmlet.itch.io/) with friends  
+I also make small generative AI apps over at [koll.ai](https://koll.ai)  
 
 ### Some projects that I'm most proud of:
 - [Seg2Map](https://github.com/RubenGres/Seg2Sat): Draw a map and let the AI generate it for you
