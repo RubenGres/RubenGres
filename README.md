@@ -5,7 +5,7 @@ I [3D model on Blender](https://www.instagram.com/retronyme/) and sometimes make
 I build small generative AI apps over at [koll.ai](https://koll.ai)  
 
 ### Some projects that I'm most proud of:
-- [Seg2Map](https://huggingface.co/spaces/rgres/Seg2Sat): Draw a map and let the AI generate it for you
+- [Seg2Map](https://github.com/RubenGres/Seg2Sat): Draw a map and let the AI generate it for you
 - [Infinite Canvas](https://canvas.koll.ai/): An infinite collaborative AI canvas
 - [ThisSCPDoesNotExist](https://www.thisscpdoesnotexist.ml/): An AI writer that can create entities from the SCP universe
 - [Unwanted Roomate](https://ohmlet.itch.io/unwanted-roommate): A game about dealing with anxiety
