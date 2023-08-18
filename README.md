@@ -1,4 +1,4 @@
-## ✨ Welcome to my little corner of the interwebs ✨
+## ✨ Welcome to my little corner of the internet ✨
 
 I'm a cloud engineer for the French National Institute of Geographic and Forest Information   
 I [3D model on Blender](https://www.instagram.com/retronyme/) and sometimes build [video games](https://ohmlet.itch.io/) with friends  
