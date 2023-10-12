@@ -8,7 +8,7 @@ I also make small generative AI apps over at [koll.ai](https://koll.ai)
 
 ## Some projects that I'm most proud of:
 - [GouvX](https://www.gouvx.fr): A chatbot that helps you naviguate french law
-- [Seg2Map](https://github.com/RubenGres/Seg2Sat): Draw a map and let the AI generate it for you
+- [Seg2Sat](https://github.com/RubenGres/Seg2Sat): Draw a map and let the AI generate it for you
 - [SnipIt](https://ohmlet.itch.io/snip-it): A game to explore art pieces using AI, winner of HuggingFace 2023 game JAM
 - [ThisSCPDoesNotExist](https://www.thisscpdoesnotexist.ml/): An AI writer that can create entities from the SCP universe
 
