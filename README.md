@@ -1,7 +1,7 @@
 ## ✨ Welcome to my little corner of the internet ✨
 
 I'm a cloud engineer for the French National Institute of Geographic and Forest Information (IGN)   
-Lately I've been really interested in AI and the open government initiative   
+Lately I've been really interested in AI and the open source governance   
 
 I [3D model on Blender](https://www.instagram.com/retronyme/) and sometimes build [video games](https://ohmlet.itch.io/) with friends  
 I also make small generative AI apps over at [koll.ai](https://koll.ai)  
