@@ -3,8 +3,7 @@
 I'm a cloud engineer for the French National Institute of Geographic and Forest Information (IGN)   
 Lately I've been really interested in AI and open source governance   
 
-I [3D model on Blender](https://www.instagram.com/retronyme/) and sometimes build [video games](https://ohmlet.itch.io/) with friends  
-I also make small generative AI apps over at [koll.ai](https://koll.ai)  
+I'm making generative AI [apps](https://koll.ai), [3D models](https://www.instagram.com/retronyme/) and sometimes [video games](https://ohmlet.itch.io/)  
 
 ## Some projects that I'm most proud of:
 - [GouvX](https://www.gouvx.fr): A chatbot that helps you naviguate french law
