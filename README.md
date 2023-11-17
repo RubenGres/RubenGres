@@ -1,14 +1,14 @@
 ## ✨ Welcome to my little corner of the internet ✨
 
-I'm a cloud engineer for the French National Institute of Geographic and Forest Information (IGN)   
-Lately I've been really interested in AI and open source governance   
+I'm an engineer for the French National Institute of Geographic and Forest Information (IGN)   
+Lately I've been really interested in generative AI, civic tech and open source governance   
 
 I'm making generative AI [apps](https://koll.ai), [3D models](https://www.instagram.com/retronyme/) and sometimes [video games](https://ohmlet.itch.io/)  
 
 ## Some projects that I'm most proud of:
 - [GouvX](https://www.gouvx.fr): A chatbot that helps you naviguate french law
-- [Seg2Sat](https://github.com/RubenGres/Seg2Sat): Draw a map and let the AI generate it for you
-- [SnipIt](https://ohmlet.itch.io/snip-it): A game to explore art pieces using AI, winner of HuggingFace 2023 game JAM
+- [Seg2Sat](https://github.com/RubenGres/Seg2Sat): Generate synthetic satellitte images from an image segmentation
+- [SnipIt](https://ohmlet.itch.io/snip-it): A game to explore art pieces using AI. **First place in HuggingFace 2023 Game JAM** 🎉
 - [ThisSCPDoesNotExist](https://www.thisscpdoesnotexist.ml/): An AI writer that can create entities from the SCP universe
 
 ## You can also find me on there:
