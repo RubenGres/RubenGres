@@ -9,7 +9,7 @@ I'm making generative AI [apps](https://koll.ai), [3D models](https://www.instag
 - [GouvX](https://www.gouvx.fr): A chatbot that helps you naviguate french law
 - [Seg2Sat](https://github.com/RubenGres/Seg2Sat): Generate synthetic satellitte images from an image segmentation
 - [SnipIt](https://ohmlet.itch.io/snip-it): A game to explore art pieces using AI. **First place in HuggingFace 2023 Game JAM** 🎉
-- [ThisSCPDoesNotExist](https://www.thisscpdoesnotexist.ml/): An AI writer that can create entities from the SCP universe
+- [ThisSCPDoesNotExist](https://www.thisscpdoesnotexist.com/): An AI writer that can create entities from the SCP universe
 
 ## You can also find me on there:
    [Portfolio](https://rubengr.es/) &nbsp;&nbsp;
