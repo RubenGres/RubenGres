@@ -17,3 +17,4 @@ I'm also making [generative AI apps](https://koll.ai), [3D models](https://www.i
    [Youtube](https://www.youtube.com/channel/UCfeAbDpZDJJcWIIrJYSp5Xg) &nbsp;&nbsp;
    [Itch.io](https://ohmlet.itch.io/) &nbsp;&nbsp;
    [Instagram](https://www.instagram.com/retronyme/) &nbsp;&nbsp;
+   [HuggingFace](https://huggingface.co/rgres) &nbsp;&nbsp;
