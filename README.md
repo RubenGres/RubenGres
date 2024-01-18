@@ -3,7 +3,7 @@
 I'm an engineer for the French National Institute of Geographic and Forest Information (IGN)   
 Lately I've been really interested in generative AI, civic tech and open source governance   
 
-I'm making generative AI [apps](https://koll.ai), [3D models](https://www.instagram.com/retronyme/) and sometimes [video games](https://ohmlet.itch.io/)  
+I'm also making [generative AI apps](https://koll.ai), [3D models](https://www.instagram.com/retronyme/), [shaders](https://www.shadertoy.com/user/retronyme) and [video games](https://ohmlet.itch.io/)  
 
 ## Some projects that I'm most proud of:
 - [GouvX](https://www.gouvx.fr): A chatbot that helps you naviguate french law
