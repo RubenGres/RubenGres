@@ -6,10 +6,10 @@ Lately I've been really interested in generative AI, civic tech and open source 
 I'm also making [generative AI apps](https://koll.ai), [3D models](https://www.instagram.com/retronyme/), [shaders](https://www.shadertoy.com/user/retronyme) and [video games](https://ohmlet.itch.io/)  
 
 ## Some projects that I'm most proud of:
-- [GouvX](https://www.gouvx.fr): A chatbot that helps you naviguate french law
 - [Seg2Sat](https://github.com/RubenGres/Seg2Sat): Generate synthetic satellitte images from an image segmentation
+- [WTFood](wtfood.eu): An AI participative bulletin board to encourage collective action (S+T+ARTS residency)
 - [SnipIt](https://ohmlet.itch.io/snip-it): A game to explore art pieces using AI. **First place in HuggingFace 2023 Game JAM** 🎉
-- [ThisSCPDoesNotExist](https://www.thisscpdoesnotexist.com/): An AI writer that can create entities from the SCP universe
+- [GouvX](https://www.gouvx.fr): A chatbot that helps you naviguate french law
 
 ## You can also find me on there:
    [Portfolio](https://rubengr.es/) &nbsp;&nbsp;
