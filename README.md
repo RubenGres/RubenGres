@@ -7,7 +7,7 @@ I'm also making [generative AI apps](https://koll.ai), [3D models](https://www.i
 
 ## Some projects that I'm most proud of:
 - [Seg2Sat](https://github.com/RubenGres/Seg2Sat): Generate synthetic satellitte images from an image segmentation
-- [WTFood](wtfood.eu): An AI participative bulletin board to encourage collective action (S+T+ARTS residency)
+- [WTFood](https://wtfood.eu): An AI participative bulletin board to encourage collective action (S+T+ARTS residency)
 - [SnipIt](https://ohmlet.itch.io/snip-it): A game to explore art pieces using AI. **First place in HuggingFace 2023 Game JAM** 🎉
 - [GouvX](https://www.gouvx.fr): A chatbot that helps you naviguate french law
 
